@@ -50,6 +50,9 @@ namespace Lab14
 			// aapt resource value: 0x7f020001
 			public const int XamarinDiplomado = 2130837505;
 			
+			// aapt resource value: 0x7f020002
+			public const int XamarinDiplomadoH = 2130837506;
+			
 			static Drawable()
 			{
 				global::Android.Runtime.ResourceIdManager.UpdateIdValues();
